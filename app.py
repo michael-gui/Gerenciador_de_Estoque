@@ -1,4 +1,4 @@
-##Sistema de gerenciamneto de estoque
+##Sistema de gerenciamento de estoque
 
 class Produto:
   def _init_(self, id, nome, categoria_id, quantidade, preco):
